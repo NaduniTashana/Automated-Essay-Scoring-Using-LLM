@@ -1,0 +1,7 @@
+question_id,human_score,ai_score,max_marks,method
+Q4_b,20,20.51,36.0,Hybrid (Vector 40% + LLM 60%)
+Q4_b,36,17.7,36.0,Hybrid (Vector 40% + LLM 60%)
+Q4_b,36,20.97,36.0,Hybrid (Vector 40% + LLM 60%)
+Q4_b,30,17.95,36.0,Hybrid (Vector 40% + LLM 60%)
+Q4_b,10,3.0,36.0,Hybrid (Vector 40% + LLM 60%)
+Q4_b,36,17.9,36.0,Hybrid (Vector 40% + LLM 60%)

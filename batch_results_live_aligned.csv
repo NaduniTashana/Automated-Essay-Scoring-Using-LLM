@@ -1,0 +1,7 @@
+question_id,human_score,ai_score,max_marks,method
+Q4_b,20,36.0,36.0,LLM Concept + Relevance Penalty
+Q4_b,36,34.0,36.0,LLM Concept + Relevance Penalty
+Q4_b,36,32.4,36.0,LLM Concept + Relevance Penalty
+Q4_b,30,36.0,36.0,LLM Concept + Relevance Penalty
+Q4_b,10,7.2,36.0,LLM Concept + Relevance Penalty
+Q4_b,36,28.8,36.0,LLM Concept + Relevance Penalty
